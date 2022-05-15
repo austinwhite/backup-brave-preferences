@@ -1,0 +1,1 @@
+# backup-brave-preferences
