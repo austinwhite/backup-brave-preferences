@@ -1,0 +1,3 @@
+[submodule "preferences"]
+	path = preferences
+	url = https://github.com/austinwhite/preferences
