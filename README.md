@@ -1,1 +1,3 @@
 # backup-brave-preferences
+
+TODO: Will always detect a change becuase lots of fields update daily. See Preferences file. Cant use unless that's fixed, might not actually be worth it...
